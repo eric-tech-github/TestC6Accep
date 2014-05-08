@@ -13,7 +13,7 @@
 #############################################################################
 
 ROOTDIR = ../..
-TARGET = c6accel_app
+TARGET = TestC6Accep
 
 include $(ROOTDIR)/Rules.make
 
